@@ -1,6 +1,6 @@
 {
   "schema_version": "v1",
-  "name_for_model": "QGRPlugin",
+  "name_for_model": "QGRPlugin2",
   "name_for_human": "QGR - Quantum Gravity Research",
   "description_for_model": "Plugin for searching through the Klee Irwin's ideas and QGR (Quantum Gravity Research) definitions and concept to find answers to questions and retrieve relevant information on Quantum Gravity, Consciousness, Mathematica code, Quasicrystals, Emergence, Empires, SSH, Self Simulation Hypothesis. Use this tool whenever a user asks something related to QGR and Klee Irwin or anything that might be found in their personal information.",
   "description_for_human": "First implementation of QGR knowledge for in ChatGPT.",
@@ -10,10 +10,10 @@
   },
   "api": {
     "type": "openapi",
-    "url": "https://plankton-app-citxc.ondigitalocean.app/",
+    "url": "https://qgr-plugin2.vercel.app/",
     "has_user_authentication": false
   },
-  "logo_url": "https://plankton-app-citxc.ondigitalocean.app/.well-known/logo.png",
+  "logo_url": "https://qgr-plugin2.vercel.app/.well-known/logo.png",
   "contact_email": "daniele@quantumgravityresearch.org", 
   "legal_info_url": "http://example.com/legal-info"
 }
