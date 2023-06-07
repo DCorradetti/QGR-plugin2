@@ -24,7 +24,7 @@ sub_app = FastAPI(
     title="QGR Plugin API",
     description="A QGR API for querying and filtering documents based on natural language queries and metadata",
     version="1.0.0",
-    servers=[{"url": "https://plankton-app-citxc.ondigitalocean.app/"}],
+    servers=[{"url": "https://qgr-plugin2.vercel.app/"}],
 )
 app.mount("/sub", sub_app)
 
